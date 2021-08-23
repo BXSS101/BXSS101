@@ -1,4 +1,9 @@
-### Hi there 👋
+![1608202729953](https://user-images.githubusercontent.com/63220854/130407820-8e8dba4a-9c83-4c19-b6ee-904d86da28ee.jpg)
+### Hi there 👋 it's me Ackrawin Boonpuen
+My name is Ackrawin Boonpuen and I'm a Computer Engineering student. I'm from Thailand, living in Samutprakan.\
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXSS101&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXSS101&layout=compact&theme=dark)
 
 <!--
 **BXSS101/BXSS101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
