@@ -8,7 +8,7 @@ My name is Ackrawin Boonpuen my friend call me Boss from Samutprakan, Thailand.
 - 🎶 Charlie Puth, Bruno Mars, The Weeknd
 - 🌱 Developing myskill & my portfolio
 
-Reach ME by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossbp_")
+Contact me by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossbp_")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXSS101&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXSS101&layout=compact&theme=dark&langs_count=8)
