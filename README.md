@@ -8,10 +8,13 @@ My name is Ackrawin Boonpuen my friend call me Boss from Samutprakan, Thailand.
 - 🎶 Charlie Puth, Bruno Mars, The Weeknd
 - 🌱 Developing myskill & my portfolio
 
-Contact me by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossbp_") [LinkedIn](https://www.linkedin.com/in/bxss101/ "LinkedIn")
+Contact me by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossbp_") [LinkedIn](https://www.linkedin.com/in/bxss101/ "LinkedIn")\
+![](https://komarev.com/ghpvc/?username=BXSS101&color=grey&style=flat-square&label=Visitors+>>>)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXSS101&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXSS101&layout=compact&theme=dark&langs_count=8)
+
+
 
 <!--
 **BXSS101/BXSS101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
