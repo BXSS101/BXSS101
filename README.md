@@ -2,7 +2,7 @@
 ### OOH! My pleasure you visit my profile
 My name is Ackrawin Boonpuen my friend call me Boss from Samutprakan, Thailand.
 - ⚡ Passionate about trying new things, designing thing, leadership, film photography & investing.
-- 🕺 Perfectionist, Fast Learner, Tech Enthusiast
+- 🕺  Perfectionist, Fast Learner, Tech Enthusiast
 - 🏫 Computer Engineering, King Mongkut's Institute of Technology Ladkrabang
 - 🎶 Safeplanet, Slot Machine, Loserpop, Anatomy Rabbit, Singular
 - 🎶 Charlie Puth, Bruno Mars, The Weeknd
@@ -13,6 +13,7 @@ Contact me by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossb
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXSS101&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXSS101&layout=compact&theme=dark&langs_count=8)
+![Spotify_recently play](https://spotify-recently-played-readme.vercel.app/api?user=21v3ftigbtvwdmrzp44cpom6y&count=4)
 
 
 
