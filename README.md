@@ -2,7 +2,7 @@
 ### OOH! My pleasure you visit my profile
 My name is Ackrawin Boonpuen my friend call me Boss from Samutprakan, Thailand.
 - ⚡ Passionate about trying new things, designing thing, leadership, film photography & investing.
-- 🕺  Perfectionist, Fast Learner, Tech Enthusiast
+- 🕺  Perfectionist, Fast Learner, Tech Enthusiast, Front-End Developer, UI Designer
 - 🏫 Computer Engineering, King Mongkut's Institute of Technology Ladkrabang
 - 🎶 Safeplanet, Slot Machine, Loserpop, Anatomy Rabbit, Singular
 - 🎶 Charlie Puth, Bruno Mars, The Weeknd
