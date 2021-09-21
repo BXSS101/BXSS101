@@ -13,12 +13,13 @@ Contact me by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossb
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BXSS101&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BXSS101&layout=compact&theme=dark&langs_count=8)
-![Spotify_recently play](https://spotify-recently-played-readme.vercel.app/api?user=21v3ftigbtvwdmrzp44cpom6y&count=4)
+
 
 
 
 <!--
 **BXSS101/BXSS101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Spotify_recently play](https://spotify-recently-played-readme.vercel.app/api?user=21v3ftigbtvwdmrzp44cpom6y&count=4)
 
 Here are some ideas to get you started:
 
