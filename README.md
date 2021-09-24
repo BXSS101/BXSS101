@@ -4,7 +4,7 @@ My name is Ackrawin Boonpuen my friend call me Boss from Samutprakan, Thailand.
 - ⚡ Passionate about trying new things, designing thing, leadership, film photography & investing.
 - 🕺  Perfectionist, Fast Learner, Tech Enthusiast, Front-End Developer, UI Designer
 - 🏫 Computer Engineering, King Mongkut's Institute of Technology Ladkrabang
-- 🎶 Safeplanet, Slot Machine, Loserpop, Anatomy Rabbit, Singular
+- 🎶 Safeplanet, Slot Machine, Loserpop, Anatomy Rabbit, Singular, Charlie Puth
 - 🌱 Developing myskill & my portfolio
 
 Contact me by [Instagram](https://www.instagram.com/bossbp_/ "Instagram : @bossbp_") [LinkedIn](https://www.linkedin.com/in/bxss101/ "LinkedIn")\
